@@ -7,7 +7,7 @@
 <p align=left> <img src="https://komarev.com/ghpvc/?username=Leandro-R-Vieira&color=blue" alt="Profile Views" /> </p>
 
 
-- 🎯 Aspiring Junior Web Developer
+- 🎯 Aspiring Junior Developer
 - 📚 Dedicating myself to become proficient at **JavaScript, HTML, CSS and React** 
 - 🔭 Looking forward to find the lucky ones that will have me as co-worker
 
