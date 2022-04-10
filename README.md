@@ -35,7 +35,7 @@
 
 <br><br>
 
-![Snake animation](https://github.com/Leandro-R-Vieira/Leandro-R-Vieira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation].github/workflows/snakeChaser.yml
 
 
 
