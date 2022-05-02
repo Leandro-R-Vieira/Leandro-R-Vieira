@@ -29,10 +29,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Leandro-R-Vieira&show_icons=true&theme=vision-friendly-dark" alt="Leandro's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-R-Vieira&layout=compact&theme=vision-friendly-dark" alt="Leandro's most languages"/>
-</p>
+  <a href="https://github.com/Leandro-R-Vieira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-R-Vieira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-R-Vieira&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <br><br>
@@ -40,5 +39,3 @@
 
 ![Snake animation](https://github.com/Leandro-R-Vieira/Leandro-R-Vieira/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
