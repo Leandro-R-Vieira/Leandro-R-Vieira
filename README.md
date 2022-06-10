@@ -2,7 +2,7 @@
 <img align="right" height="590" 
  src="https://raw.githubusercontent.com/gist/Leandro-R-Vieira/51e9bdbeddbf959915ba175060fab51f/raw/3c70b813cf9d2284758b8acfbfe9e3270feaca47/githubcard.svg"/>
 
-<h1 align="left">Greetings <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leandro R. Vieira</h1>
+<h1 align="left">Greetings, I'm Leandro R. Vieira</h1>
   
 <p align=left> <img src="https://komarev.com/ghpvc/?username=Leandro-R-Vieira&color=blue" alt="Profile Views" /> </p>
 
