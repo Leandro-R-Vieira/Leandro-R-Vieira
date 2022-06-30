@@ -8,10 +8,14 @@
 
 
 - 🎯 Aspiring Junior Developer
-- 📚 Dedicating myself to become proficient at **JavaScript, HTML, CSS and React** 
+- 📚 Dedicating myself to become proficient at **JavaScript, TypeScript, Node.JS, React.JS and React Native** 
 - 🔭 Looking forward to find the lucky ones that will have me as co-worker
 
 <br><br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-rezende-vieira-23a212242/)](https://www.linkedin.com/in/leandro-rezende-vieira-23a212242/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrorvieira22@yahoo.com)](mailto:leandrorvieira22@yahoo.com)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-0DA204?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521995925956)
 
 ## 🛠 &nbsp;Tech Stack
 
