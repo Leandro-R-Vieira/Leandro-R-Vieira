@@ -7,7 +7,7 @@
 <p align=left> <img src="https://komarev.com/ghpvc/?username=Leandro-R-Vieira&color=blue" alt="Profile Views" /> </p>
 
 
-- 🎯 Aspiring Mobile Developer
+- 🎯 Mobile Developer
 - 📚 Dedicating myself to become proficient at **JavaScript, TypeScript, React.JS and React Native** 
 - 🔭 Looking forward to find the lucky ones that will have me as co-worker
 
