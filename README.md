@@ -8,7 +8,7 @@
 
 
 - 🎯 Mobile Developer
-- 📚 Dedicating myself to become proficient at **JavaScript, TypeScript, React.JS and React Native** 
+- 📚 Dedicating myself to become proficient at **JavaScript, TypeScript, and React Native** 
 - 🔭 Looking forward to find the lucky ones that will have me as co-worker
 
 <br><br>
