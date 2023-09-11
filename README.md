@@ -38,8 +38,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <a href="https://github.com/Leandro-R-Vieira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-R-Vieira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Leandro-R-Vieira"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-R-Vieira&layout=compact&langs_count=7&theme=react"/>
 </div>
 
